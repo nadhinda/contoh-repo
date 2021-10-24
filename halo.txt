@@ -4,6 +4,8 @@ hal yang ingin dipelajari
 - python
 - kotlin
 - kriptografi
+  ^ enkripsi caesar cipher
+  ^ enkripsi vigenere cipher
 - steganografi
 - data mining
 - keamanan jaringan
