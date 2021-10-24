@@ -10,7 +10,6 @@ hal yang ingin dipelajari
 - steganografi
   ^ spartial domain method
   ^ transform domain method
-
 - data mining
 - keamanan jaringan
 - laravel
@@ -27,3 +26,6 @@ bahasa pemrograman pilihan
 - c++
 - javascript
 
+software yang digunakan
+- vscode
+- netbeans
