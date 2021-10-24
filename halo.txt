@@ -6,12 +6,24 @@ hal yang ingin dipelajari
 - kriptografi
   ^ enkripsi caesar cipher
   ^ enkripsi vigenere cipher
+  ^ enkripsi aes
+- steganografi
+  ^ spartial domain method
+  ^ transform domain method
+
 - data mining
 - keamanan jaringan
 - laravel
+
+
+sistem operasi yang digunakan
+- macos
+- linux
+- windows
 
 bahasa pemrograman pilihan
 - java
 - python
 - c++
 - javascript
+
