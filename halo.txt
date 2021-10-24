@@ -7,6 +7,8 @@ hal yang ingin dipelajari
   ^ enkripsi caesar cipher
   ^ enkripsi vigenere cipher
 - steganografi
+  ^ spartial domain method
+  ^ transform domain method
 - data mining
 - keamanan jaringan
 - laravel
