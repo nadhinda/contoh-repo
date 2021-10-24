@@ -4,3 +4,6 @@ hal yang ingin dipelajari
 - python
 - kotlin
 - kriptografi
+- steganografi
+- artificial intelegence
+- data mining
