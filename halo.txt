@@ -10,11 +10,20 @@ hal yang ingin dipelajari
 - steganografi
   ^ spartial domain method
   ^ transform domain method
+
 - data mining
 - keamanan jaringan
 - laravel
+
 
 sistem operasi yang digunakan
 - macos
 - linux
 - windows
+
+bahasa pemrograman pilihan
+- java
+- python
+- c++
+- javascript
+
